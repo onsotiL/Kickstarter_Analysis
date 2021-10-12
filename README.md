@@ -5,6 +5,11 @@ An upcoming playwright Louise is interested in beginning a crowdfunding campaign
 ### Purpose
 The purpose of the project is to determine various factors associated with crowdfunding that have made similar projects successful in the past. 
 The project uses Excel to organize, sort and analyze the data which will be presented to the playwright Louise, to enable her to make decisions on how to best execute her campaign.
+
+![Picture2](https://user-images.githubusercontent.com/90416094/137037676-bb13ad0e-ddb6-498b-885e-de9ebaa8b448.png)
+
+
+
 ## Analysis and Challenges
 The dataset used for analysis was huge and had different types of data including:
 1. Text
