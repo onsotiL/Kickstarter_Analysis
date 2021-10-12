@@ -1,10 +1,21 @@
 # An Analysis of Kickstarter Campaigns (Performing analysis on Kickstarter data to uncover trends)
 ## Overview of the Project
-An upcoming playwright is interested in beginning a crowdfunding campaign to fund her upcoming play. The project analyzes data from other crowdfunding campaigns to come up with  trends that can help the playwright make decisions about her own campaign.  
+An upcoming playwright Louise is interested in beginning a crowdfunding campaign to fund her upcoming play Fever. The project analyzes data from other crowdfunding campaigns to come up with trends that can help her make decisions about her own campaign.  
+
 ### Purpose
 The purpose of the project is to determine various factors associated with crowdfunding that have made similar projects successful in the past. 
-The project uses Excel to organize, sort and analyze the data which will be presented to the playwright, to enable her to make decisions on how to best execute her campaign.
+The project uses Excel to organize, sort and analyze the data which will be presented to the playwright Louise, to enable her to make decisions on how to best execute her campaign.
 ## Analysis and Challenges
+The dataset used for analysis was huge and had different types of data including:
+1. Text
+2. Numerals
+3. Currency
+4. Dates
+To ensure the final analysis was accurate, data had to be assessed to ensure it was classified correctly. 
+Examples
+*While assessing the Data before analysis, it was discovered that launch dates were set in Unix timestamps and needed to be converted. Using the dates as they were presented   originally would have led to errors in the analysis 
+*Some formulas used resulted in errors.When calculating the average donations by backers, productions that  did not have backers returned an error because numbers cannot be divided by zero. Debugging errors on an ongoing basis is therefore crucial while working with data
+different types of data including:
 
 ### Analysis of Outcomes Based on Launch Date
 
