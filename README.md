@@ -55,12 +55,12 @@ The Analyzed data indicated the following
 
 ## Results
 
-# Conclusions drawn on outcomes based on Launch Date
+#Conclusions drawn on outcomes based on Launch Date
 1.Louise play is most likely to succeed if it is launched between the months of May and June
 2.
 
 
-# Conclusion drawn on outcomes based on Goals
+#Conclusion drawn on outcomes based on Goals
 1.With a budget of 10,000 dollars, Louise’s play has a 55% chance of reaching its goals and 45% chance of not reaching her campaign goals
 2.
 
