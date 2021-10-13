@@ -43,8 +43,8 @@ The line chart below shows the analysis of Kickstarter analysis campaigns based 
 ![Outcomes_vs-Goals](https://user-images.githubusercontent.com/90416094/137052401-2c643195-3146-49c2-8f04-280d7d44bc6b.png)
 
 The Analyzed data indicated the following
-1. The highest percentage of successful campaigns had a goal of less than 1000 dollars. 
-2. The highest percentage of failed campaigns are those that had a budget of over 45,000.
+1. The highest percentage of successful campaigns had a goal of less than $ 1000.
+2. The highest percentage of failed campaigns are those that had a budget of over $ 45,000.
 
 
 
@@ -57,14 +57,21 @@ The Analyzed data indicated the following
 
 ### Conclusions drawn on outcomes based on Launch Date
 1.Louise play is most likely to succeed if it is launched between the months of May and June
-2.
+2.Theater is the most popular campaign in Kickstater 
 
 
 ### Conclusion drawn on outcomes based on Goals
 1.With a budget of 10,000 dollars, Louise’s play has a 55% chance of reaching its goals and 45% chance of not reaching her campaign goals
-2.
+2.Analyzed data indicates that the higher the campaign goals the lower the success of the camapign meeting its goals.
+3. The most successful campaigns had a goal of less than $ 1000 
 
 
-- What are some limitations of this dataset?
+### Limitations of this dataset?
+1. There  are other ways other than Kickstarter campaigns for Louise to raise money to produce her play. Without taking into consideration other crowfundings, conclusion drawn  may not necessarily be the best
+2. Without establishing the popularity of Kickstater, it is possble that there are backers who may not be aware of kickstarter for crowdfunding.
+3. To get a more current picture on crowfunding, more recent data should be used. The data set used in this case is based on campaigns run between 2010 and 2017. 
 
-- What are some other possible tables and/or graphs that we could create?
+
+### Other possible tables and/or graphs that we could create
+1. For futher analysis, we could add country as a filetr for both outcomes based on launch date, and goals to get a clear understanding of sucsess based on location
+2. A box and whiskers chart can also help us identify outliers that might be skewing the data in one direction or another.
