@@ -8,7 +8,7 @@ The project uses Excel to organize, sort and analyze the data which will be pres
 
 ![Picture2](https://user-images.githubusercontent.com/90416094/137037676-bb13ad0e-ddb6-498b-885e-de9ebaa8b448.png)
 
-
+This chart for example shows that ‘Theater’ Kickstarter campaigns had the most successful campaigns in all categories in the United States, 
 
 ## Analysis and Challenges
 The dataset used for analysis was huge and had different types of data including:
