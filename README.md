@@ -57,6 +57,7 @@ The Analyzed data indicated the following
 
 ### Conclusions drawn on outcomes based on Launch Date
 1.Louise play is most likely to succeed if it is launched between the months of May and June
+
 2.Theater is the most popular campaign in Kickstater 
 
 
