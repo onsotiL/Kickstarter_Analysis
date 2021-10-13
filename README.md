@@ -25,20 +25,28 @@ different types of data including:
 
 ### Analysis of Outcomes Based on Launch Date
 
-The line chart beleow shows the analysis of Kickstarter campaigns based on launch date.
+The line chart below shows the analysis of Kickstarter campaigns based on launch date.
 
 ![Theater_Outcomes-vs-Launch png](https://user-images.githubusercontent.com/90416094/137051298-30677b1a-c89d-4659-b5e6-b5400eeee429.png)
 
 
-###The analyzed data indicates the following:
+The analyzed data indicates the following:
+
 The launch date and the length of a campaign is crucial for success. 
 Successful Campaigns were launched  between the months of April and August, with the most successful ones in the months of May and June.
 Campaigns at the beginning and the end of the year did not meet their goals.
  
-
-
-
 ### Analysis of Outcomes Based on Goals
+
+The line chart below shows the analysis of Kickstarter analysis campaigns based on goals
+
+![Outcomes_vs-Goals](https://user-images.githubusercontent.com/90416094/137052401-2c643195-3146-49c2-8f04-280d7d44bc6b.png)
+
+The Analyzed data indicated the following
+1. The highest percentage of successful campaigns had a goal of less than 1000 dollars. 
+2. The highest percentage of failed campaigns are those that had a budget of over 45,000.
+
+
 
 ### Challenges and Difficulties Encountered
 
