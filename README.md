@@ -8,7 +8,7 @@ The project uses Excel to organize, sort and analyze the data which will be pres
 
 ![Picture2](https://user-images.githubusercontent.com/90416094/137037676-bb13ad0e-ddb6-498b-885e-de9ebaa8b448.png)
 
-This chart for example shows that ‘Theater’ Kickstarter campaigns had the most successful campaigns in all categories in the United States, 
+This chart for example shows that ‘Theater’ Kickstarter campaigns had the most successful campaigns in all categories in the United States.
 
 ## Analysis and Challenges
 The dataset used for analysis was huge and had different types of data including:
@@ -24,6 +24,19 @@ Examples
 different types of data including:
 
 ### Analysis of Outcomes Based on Launch Date
+
+The line chart beleow shows the analysis of Kickstarter campaigns based on launch date.
+
+![Theater_Outcomes-vs-Launch png](https://user-images.githubusercontent.com/90416094/137051298-30677b1a-c89d-4659-b5e6-b5400eeee429.png)
+
+
+###The analyzed data indicates the following:
+The launch date and the length of a campaign is crucial for success. 
+Successful Campaigns were launched  between the months of April and August, with the most successful ones in the months of May and June.
+Campaigns at the beginning and the end of the year did not meet their goals.
+ 
+
+
 
 ### Analysis of Outcomes Based on Goals
 
