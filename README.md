@@ -49,9 +49,13 @@ The dataset used for analysis was huge and had different types of data including
 4. Dates
 
 To ensure the final analysis was accurate, data had to be assessed to ensure it was classified correctly. 
+
 Examples
-*While assessing the Data before analysis, it was discovered that launch dates were set in Unix timestamps and needed to be converted. Using the dates as they were presented   originally would have led to errors in the analysis. Some formulas used resulted in errors. When calculating the average donations by backers, productions that  did not have backers returned an error because numbers cannot be divided by zero. Debugging errors on an ongoing basis is therefore crucial while working with data
-different types of data including:
+
+1. While assessing the Data before analysis, it was discovered that launch dates were set in Unix timestamps and needed to be converted. Using the dates as they were presented   originally would have led to errors in the analysis. 
+2. Some formulas used resulted in errors. When calculating the average donations by backers, productions that  did not have backers returned an error because numbers cannot be divided by zero. 
+
+Debugging errors on an ongoing basis is therefore crucial while working with data different types of data including:
 
 
 ## Results
