@@ -11,18 +11,13 @@ The project uses Excel to organize, sort and analyze the data which will be pres
 This chart for example shows that ‘Theater’ Kickstarter campaigns had the most successful campaigns in all categories in the United States.
 
 ## Analysis and Challenges
-The dataset used for analysis was huge and had different types of data including:
-1. Text
-2. Numerals
-3. Currency
-4. Dates
+Various aspects of the data were analyzed to uncover trends to adequately advice Louise, this included:
+1. Campaign outcomes based on luanched dates
+2. Campaign outcomes based on goals 
+3. What are the most popular categories in the countries Louise has experessed an interest in producing her play
+4. The average amount of donations by backers for different categories  
 
-To ensure the final analysis was accurate, data had to be assessed to ensure it was classified correctly. 
-Examples
-*While assessing the Data before analysis, it was discovered that launch dates were set in Unix timestamps and needed to be converted. Using the dates as they were presented   originally would have led to errors in the analysis 
-*Some formulas used resulted in errors.When calculating the average donations by backers, productions that  did not have backers returned an error because numbers cannot be divided by zero. Debugging errors on an ongoing basis is therefore crucial while working with data
-different types of data including:
-
+The Challenge was to analyze the outcomes of the different trends and determine factors that play a role in the success or failure of a campaign 
 ### Analysis of Outcomes Based on Launch Date
 
 The line chart below shows the analysis of Kickstarter campaigns based on launch date.
@@ -46,11 +41,17 @@ The Analyzed data indicated the following
 1. The highest percentage of successful campaigns had a goal of less than $ 1000.
 2. The highest percentage of failed campaigns are those that had a budget of over $ 45,000.
 
-
-
 ### Challenges and Difficulties Encountered
+The dataset used for analysis was huge and had different types of data including:
+1. Text
+2. Numerals
+3. Currency
+4. Dates
 
-
+To ensure the final analysis was accurate, data had to be assessed to ensure it was classified correctly. 
+Examples
+*While assessing the Data before analysis, it was discovered that launch dates were set in Unix timestamps and needed to be converted. Using the dates as they were presented   originally would have led to errors in the analysis. Some formulas used resulted in errors. When calculating the average donations by backers, productions that  did not have backers returned an error because numbers cannot be divided by zero. Debugging errors on an ongoing basis is therefore crucial while working with data
+different types of data including:
 
 
 ## Results
