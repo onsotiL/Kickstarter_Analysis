@@ -67,7 +67,7 @@ The Analyzed data indicated the following
 3. The most successful campaigns had a goal of less than $ 1000 
 
 
-### Limitations of this dataset?
+### Limitations of this dataset
 1. There  are other ways other than Kickstarter campaigns for Louise to raise money to produce her play. Without taking into consideration other crowfundings, conclusion drawn  may not necessarily be the best
 2. Without establishing the popularity of Kickstater, it is possble that there are backers who may not be aware of kickstarter for crowdfunding.
 3. To get a more current picture on crowfunding, more recent data should be used. The data set used in this case is based on campaigns run between 2010 and 2017. 
